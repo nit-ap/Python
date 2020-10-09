@@ -24,5 +24,11 @@ fib(1000)
 ```
 ### This tutorial consist of PDF and best youtube videos link for learning python
 ### Fell free to fork this repo and give it a star
+### Some bset youtube video to start with python :
+- [Code_With_Harry](https://www.youtube.com/playlist?list=PLu0W_9lII9agICnT8t4iYVSZ3eykIAOME)
+- [Telusko_Learning](https://www.youtube.com/watch?v=QXeEoD0pB3E&list=PLsyeobzWxl7poL9JTVyndKe62ieoN-MZ3)
+- [Code_with_mosh](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=15057s)
+- [Python_Project](https://www.youtube.com/watch?v=_ZqAVck-WeM)
+- [Cool_Python_projects](https://www.youtube.com/watch?v=OhP-eKYBaNs&list=PL288dDBJtFXCApnk8UTDHPTQnhDW-3CX2)
 
 ### Happy Coding 
